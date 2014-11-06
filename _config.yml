@@ -86,4 +86,4 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: https://github.com/tongfeifan/tongfeifan.github.io.git
+  repo: https://tongfeifan@github.com/tongfeifan/tongfeifan.github.io.git
